@@ -10,7 +10,7 @@ metadata:
     pipelinesascode.tekton.dev/task-0: "https://raw.githubusercontent.com/redhat-ai-dev/rhdh-pipelines/main/pac/tasks/init.yaml"
     pipelinesascode.tekton.dev/task-1: "https://raw.githubusercontent.com/redhat-ai-dev/rhdh-pipelines/main/pac/tasks/git-clone.yaml"
     pipelinesascode.tekton.dev/task-2: "https://raw.githubusercontent.com/redhat-ai-dev/rhdh-pipelines/main/pac/tasks/buildah-ai-rhdh.yaml"
-    pipelinesascode.tekton.dev/task-3: "https://raw.githubusercontent.com/redhat-ai-dev/rhdh-pipelines/main/pac/tasks/update-deployment-patch.yaml"
+    pipelinesascode.tekton.dev/task-3: "https://raw.githubusercontent.com/thepetk/rhdh-pipelines/refs/heads/feat/add_support_for_bearer_auth/pac/tasks/update-deployment-patch.yaml"
     pipelinesascode.tekton.dev/task-4: "https://raw.githubusercontent.com/redhat-ai-dev/rhdh-pipelines/main/pac/tasks/show-sbom-rhdh.yaml"
     pipelinesascode.tekton.dev/task-5: "https://raw.githubusercontent.com/redhat-ai-dev/rhdh-pipelines/main/pac/tasks/summary.yaml"
   labels:
